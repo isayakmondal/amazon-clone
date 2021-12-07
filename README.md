@@ -1,3 +1,9 @@
+#   Amazon Clone
+
+This is a amazon clone made using ReactJS and Firebase. <br/>
+Inspiration - Clever Programmer
+
+## React Stuff (If you wanna clone/fork it)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
